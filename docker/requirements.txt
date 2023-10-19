@@ -1,0 +1,13 @@
+apache-airflow>=1.8.1
+croniter>=0.3
+flask_admin>=1.5.8
+flask_appbuilder
+flask_babel
+confluent-kafka[avro]
+apache-airflow-providers-jdbc
+apache-airflow-providers-snowflake
+apache-airflow-providers-google
+apache-airflow-providers-databricks
+apache-airflow-providers-postgres
+apache-airflow-providers-mysql
+apache-airflow[cncf.kubernetes]
